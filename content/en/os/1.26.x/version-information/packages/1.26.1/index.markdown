@@ -1,7 +1,7 @@
 ---
-title: "1.25.0"
+title: "1.26.1"
 type: "docs"
-description: "Package Versions in Bottlerocket Release 1.25.0"
+description: "Package Versions in Bottlerocket Release "
 packages:
   - package: acpid
     version: 2.0.34
@@ -249,7 +249,7 @@ packages:
       - "1004-af_unix-increase-default-max_dgram_qlen-to-512.patch"
       - "1003-initramfs-unlink-INITRAMFS_FORCE-from-CMDLINE_-EXTEN.patch"
   - package: kernel-6.1
-    version: 6.1.109
+    version: 6.1.112
     patches:
       - "1001-Makefile-add-prepare-target-for-external-modules.patch"
       - "1002-Revert-kbuild-hide-tools-build-targets-from-external.patch"
@@ -281,11 +281,11 @@ packages:
   - package: kubernetes-1.26
     version: 1.26.15
   - package: kubernetes-1.27
-    version: 1.27.14
+    version: 1.27.16
   - package: kubernetes-1.28
-    version: 1.28.10
+    version: 1.28.13
   - package: kubernetes-1.29
-    version: 1.29.5
+    version: 1.29.8
   - package: kubernetes-1.30
     version: 1.30.1
   - package: kubernetes-1.31

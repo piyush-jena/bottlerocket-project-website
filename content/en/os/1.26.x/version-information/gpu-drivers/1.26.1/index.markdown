@@ -1,5 +1,5 @@
 +++
-title = "1.25.0"
+title = "1.26.1"
 description = "Drivers included in each GPU-enabled variant"
 type = "docs"
 +++
